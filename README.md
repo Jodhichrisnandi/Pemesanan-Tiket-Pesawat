@@ -3,6 +3,7 @@ Kami terdiri dari 4 orang yaitu :
 2. Jodhi Chrisnandi
 3. Michael Renu
 4. Yudi Arif Firmansyah
+
 Program ini dibuat untuk memenuhi tugas akhir dari mata kuliah Algoritma dan Pemograman.
 Program ini dibuat dengan didasarkan materi-materi yang telah kami terima selama semester 1.
 Program ini dibuat untuk memudahkan dalam pemesanan tiket pesawat.
